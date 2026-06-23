@@ -13,3 +13,5 @@ César Velasquez
 Cambio realizado para mejorar el título principal.
 
 Descripción general agregada al proyecto.
+
+Documentación actualizada para el seguimiento de tareas.
