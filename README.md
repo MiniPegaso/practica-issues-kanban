@@ -9,3 +9,5 @@ Registrar tres bugs o tareas ficticias usando GitHub Issues y moverlas en un tab
 ## Autor
 
 César Velasquez
+
+Cambio realizado para mejorar el título principal.
